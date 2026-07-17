@@ -59,13 +59,20 @@ app.get('/health', (req, res) => res.json({ status: 'ok' }));
 app.get('/operas', async (req, res) => {
   const { comp } = req.query;
   const filter = comp ? { 'compositor.id': comp } : {};
-  const operas = await Opera.find(filter, { _id: 0, id: 1, title: 1, premiereYear: 1, 'compositor.name': 1, 'teatro.country': 1 }).sort({ premiereYear: 1, title: 1 });
+  const operas = await Opera.find(filter, { _id: 0, id: 1, title: 1, premiereYear: 1, 'compositor.id': 1, 'compositor.name': 1, 'teatro.id': 1, 'teatro.name': 1, 'teatro.country': 1 }).sort({ premiereYear: 1, title: 1 });
   res.json(operas.map(opera => ({
     id: opera.id,
     title: opera.title,
     premiereYear: opera.premiereYear,
-    compositor: { name: opera.compositor?.name || null },
-    teatro: { country: opera.teatro?.country || null }
+    compositor: {
+      id: opera.compositor?.id || null,
+      name: opera.compositor?.name || null
+    },
+    teatro: {
+      id: opera.teatro?.id || null,
+      name: opera.teatro?.name || null,
+      country: opera.teatro?.country || null
+    }
   })));
 });
 
@@ -87,7 +94,19 @@ app.get('/operas', async (req, res) => {
  *         description: Ópera não encontrada
  */
 app.get('/operas/:id', async (req, res) => {
-  const opera = await Opera.findOne({ $or: [{ id: req.params.id }, { _id: req.params.id }] });
+  const id = req.params.id;
+  let opera;
+
+  try {
+    opera = await Opera.findOne({ $or: [{ id }, { _id: id }] });
+  } catch (err) {
+    if (err.name === 'CastError' && err.path === '_id') {
+      opera = await Opera.findOne({ id });
+    } else {
+      throw err;
+    }
+  }
+
   if (!opera) {
     return res.status(404).json({ error: 'Ópera não encontrada' });
   }

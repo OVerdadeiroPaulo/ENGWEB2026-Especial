@@ -1,0 +1,35 @@
+services:
+  mongo:
+    image: mongo:7
+    container_name: operas-mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+  api:
+    build:
+      context: ./ex1
+    container_name: operas-api
+    ports:
+      - "17060:17060"
+    environment:
+      PORT: 17060
+      MONGODB_URI: mongodb://mongo:27017/operas_db
+    depends_on:
+      - mongo
+
+  web:
+    build:
+      context: ./ex2
+    container_name: operas-web
+    ports:
+      - "17061:17061"
+    environment:
+      PORT: 17061
+      API_URL: http://api:17060
+    depends_on:
+      - api
+
+volumes:
+  mongo-data:
