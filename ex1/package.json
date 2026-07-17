@@ -1,0 +1,22 @@
+{
+  "name": "ex1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "unificador.js": "node unificador.js",
+    "importar-mongoose.js": "node importar-mongoose.js",
+    "consultador.js": "node consultador.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.13.4",
+    "swagger-jsdoc": "^6.0.0",
+    "swagger-ui-express": "^5.0.0"
+  }
+}

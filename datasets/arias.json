@@ -1,0 +1,110 @@
+[
+  {
+    "id": "madamina-il-catalogo-e-questo",
+    "name": "Madamina, il catalogo è questo",
+    "voiceType": "Bass-baritone",
+    "featuredInOpera": "don-giovanni"
+  },
+  {
+    "id": "der-holle-rache",
+    "name": "Der Hölle Rache (Queen of the Night Aria)",
+    "voiceType": "Coloratura soprano",
+    "featuredInOpera": "the-magic-flute"
+  },
+  {
+    "id": "non-piu-andrai",
+    "name": "Non più andrai",
+    "voiceType": "Bass-baritone",
+    "featuredInOpera": "the-marriage-of-figaro"
+  },
+  {
+    "id": "che-gelida-manina",
+    "name": "Che gelida manina",
+    "voiceType": "Tenor",
+    "featuredInOpera": "la-boheme"
+  },
+  {
+    "id": "vissi-darte",
+    "name": "Vissi d'arte",
+    "voiceType": "Soprano",
+    "featuredInOpera": "tosca"
+  },
+  {
+    "id": "nessun-dorma",
+    "name": "Nessun dorma",
+    "voiceType": "Tenor",
+    "featuredInOpera": "turandot"
+  },
+  {
+    "id": "un-bel-di-vedremo",
+    "name": "Un bel dì, vedremo",
+    "voiceType": "Soprano",
+    "featuredInOpera": "madama-butterfly"
+  },
+  {
+    "id": "sempre-libera",
+    "name": "Sempre libera",
+    "voiceType": "Soprano",
+    "featuredInOpera": "la-traviata"
+  },
+  {
+    "id": "la-donna-e-mobile",
+    "name": "La donna è mobile",
+    "voiceType": "Tenor",
+    "featuredInOpera": "rigoletto"
+  },
+  {
+    "id": "celeste-aida",
+    "name": "Celeste Aida",
+    "voiceType": "Tenor",
+    "featuredInOpera": "aida"
+  },
+  {
+    "id": "va-pensiero",
+    "name": "Va, pensiero (Chorus of the Hebrew Slaves)",
+    "voiceType": "Chorus",
+    "featuredInOpera": "nabucco"
+  },
+  {
+    "id": "habanera",
+    "name": "L'amour est un oiseau rebelle (Habanera)",
+    "voiceType": "Mezzo-soprano",
+    "featuredInOpera": "carmen"
+  },
+  {
+    "id": "largo-al-factotum",
+    "name": "Largo al factotum",
+    "voiceType": "Baritone",
+    "featuredInOpera": "the-barber-of-seville"
+  },
+  {
+    "id": "casta-diva",
+    "name": "Casta Diva",
+    "voiceType": "Soprano",
+    "featuredInOpera": "norma"
+  },
+  {
+    "id": "il-dolce-suono",
+    "name": "Il dolce suono (Mad Scene)",
+    "voiceType": "Soprano",
+    "featuredInOpera": "lucia-di-lammermoor"
+  },
+  {
+    "id": "o-namenlose-freude",
+    "name": "O namenlose Freude!",
+    "voiceType": "Duet (Soprano/Tenor)",
+    "featuredInOpera": "fidelio"
+  },
+  {
+    "id": "liebestod",
+    "name": "Mild und leise (Liebestod)",
+    "voiceType": "Soprano",
+    "featuredInOpera": "tristan-und-isolde"
+  },
+  {
+    "id": "ride-of-the-valkyries",
+    "name": "Walkürenritt",
+    "voiceType": "Chorus/Sopranos",
+    "featuredInOpera": "die-walkure"
+  }
+]

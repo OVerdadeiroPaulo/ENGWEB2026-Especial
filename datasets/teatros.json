@@ -1,0 +1,92 @@
+[
+  {
+    "id": "estates-theatre",
+    "name": "Estates Theatre",
+    "country": "Czech Republic",
+    "premieredOperas": ["don-giovanni"]
+  },
+  {
+    "id": "theater-auf-der-wieden",
+    "name": "Theater auf der Wieden",
+    "country": "Austria",
+    "premieredOperas": ["the-magic-flute"]
+  },
+  {
+    "id": "burgtheater",
+    "name": "Burgtheater",
+    "country": "Austria",
+    "premieredOperas": ["the-marriage-of-figaro"]
+  },
+  {
+    "id": "teatro-regio-turin",
+    "name": "Teatro Regio di Torino",
+    "country": "Italy",
+    "premieredOperas": ["la-boheme"]
+  },
+  {
+    "id": "teatro-costanzi",
+    "name": "Teatro Costanzi",
+    "country": "Italy",
+    "premieredOperas": ["tosca"]
+  },
+  {
+    "id": "teatro-alla-scala",
+    "name": "Teatro alla Scala",
+    "country": "Italy",
+    "premieredOperas": ["turandot", "madama-butterfly", "nabucco", "norma"]
+  },
+  {
+    "id": "la-fenice",
+    "name": "La Fenice",
+    "country": "Italy",
+    "premieredOperas": ["la-traviata", "rigoletto"]
+  },
+  {
+    "id": "khedivial-opera-house",
+    "name": "Khedivial Opera House",
+    "country": "Egypt",
+    "premieredOperas": ["aida"]
+  },
+  {
+    "id": "opera-comique",
+    "name": "Opéra-Comique",
+    "country": "France",
+    "premieredOperas": ["carmen"]
+  },
+  {
+    "id": "teatro-argentina",
+    "name": "Teatro Argentina",
+    "country": "Italy",
+    "premieredOperas": ["the-barber-of-seville"]
+  },
+  {
+    "id": "teatro-san-carlo",
+    "name": "Teatro di San Carlo",
+    "country": "Italy",
+    "premieredOperas": ["lucia-di-lammermoor"]
+  },
+  {
+    "id": "theater-an-der-wien",
+    "name": "Theater an der Wien",
+    "country": "Austria",
+    "premieredOperas": ["fidelio"]
+  },
+  {
+    "id": "national-theatre-munich",
+    "name": "National Theatre Munich",
+    "country": "Germany",
+    "premieredOperas": ["tristan-und-isolde", "die-walkure"]
+  },
+  {
+    "id": "festspielhaus-bayreuth",
+    "name": "Bayreuth Festspielhaus",
+    "country": "Germany",
+    "premieredOperas": ["parsifal"]
+  },
+  {
+    "id": "hoftheater-weimar",
+    "name": "Großherzogliches Hoftheater",
+    "country": "Germany",
+    "premieredOperas": ["lohengrin"]
+  }
+]

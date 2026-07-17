@@ -1,0 +1,36 @@
+Número de operas na coleção operas:
+ 20
+querry usado para contar: db.operas.countDocuments()
+Número de operas com runtime maior que 150:
+ 10
+querry usado para contar:
+ db.operas.countDocuments({ runtimeMinutes: { $gt: 150 } })
+Lista de países onde ocorreram estreias :
+ Austria, Czech Republic, Egypt, France, Germany, Italy
+querry usado para contar:
+ db.operas.distinct('teatro.country')
+Distribuição de óperas por compositor:
+Richard Wagner: 4
+Giacomo Puccini: 4
+Giuseppe Verdi: 4
+Wolfgang Amadeus Mozart: 3
+Gioachino Rossini: 1
+Vincenzo Bellini: 1
+Gaetano Donizetti: 1
+Georges Bizet: 1
+Ludwig van Beethoven: 1
+querry usado para contar:
+ db.operas.aggregate([{ $group: { _id: '$compositor.name', count: { $sum: 1 } } }, { $sort: { count: -1 } }])
+Óperas que estrearam em Itália:
+La Bohème (1896)
+Tosca (1900)
+Turandot (1926)
+Madama Butterfly (1904)
+La Traviata (1853)
+Rigoletto (1851)
+Nabucco (1842)
+The Barber of Seville (1816)
+Norma (1831)
+Lucia di Lammermoor (1835)
+querry usado para contar:
+ db.operas.find({ 'teatro.country': 'Italy' }, { projection: { title: 1, premiereYear: 1, _id: 0 } })

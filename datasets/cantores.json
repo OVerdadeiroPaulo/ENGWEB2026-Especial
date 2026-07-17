@@ -1,0 +1,77 @@
+[
+  {
+    "id": "luciano-pavarotti",
+    "name": "Luciano Pavarotti",
+    "sangIn": ["la-boheme", "tosca", "turandot", "rigoletto", "la-traviata", "lucia-di-lammermoor"]
+  },
+  {
+    "id": "maria-callas",
+    "name": "Maria Callas",
+    "sangIn": ["tosca", "norma", "la-traviata", "carmen", "lucia-di-lammermoor", "madama-butterfly", "aida"]
+  },
+  {
+    "id": "placido-domingo",
+    "name": "Plácido Domingo",
+    "sangIn": ["tosca", "carmen", "die-walkure", "aida", "nabucco", "la-traviata"]
+  },
+  {
+    "id": "joan-sutherland",
+    "name": "Joan Sutherland",
+    "sangIn": ["lucia-di-lammermoor", "norma", "rigoletto", "don-giovanni", "la-traviata"]
+  },
+  {
+    "id": "jonas-kaufmann",
+    "name": "Jonas Kaufmann",
+    "sangIn": ["tosca", "carmen", "die-walkure", "parsifal", "lohengrin", "fidelio"]
+  },
+  {
+    "id": "anna-netrebko",
+    "name": "Anna Netrebko",
+    "sangIn": ["la-traviata", "la-boheme", "don-giovanni", "the-marriage-of-figaro", "tosca", "aida"]
+  },
+  {
+    "id": "bryn-terfel",
+    "name": "Bryn Terfel",
+    "sangIn": ["don-giovanni", "the-marriage-of-figaro", "tosca", "die-walkure"]
+  },
+  {
+    "id": "renee-fleming",
+    "name": "Renée Fleming",
+    "sangIn": ["the-marriage-of-figaro", "don-giovanni", "la-traviata"]
+  },
+  {
+    "id": "dietrich-fischer-dieskau",
+    "name": "Dietrich Fischer-Dieskau",
+    "sangIn": ["don-giovanni", "the-marriage-of-figaro", "fidelio", "parsifal", "tristan-und-isolde"]
+  },
+  {
+    "id": "tito-gobbi",
+    "name": "Tito Gobbi",
+    "sangIn": ["tosca", "rigoletto", "nabucco", "the-barber-of-seville", "don-giovanni"]
+  },
+  {
+    "id": "enrico-caruso",
+    "name": "Enrico Caruso",
+    "sangIn": ["la-boheme", "rigoletto", "carmen", "aida", "tosca"]
+  },
+  {
+    "id": "cecilia-bartoli",
+    "name": "Cecilia Bartoli",
+    "sangIn": ["the-barber-of-seville", "the-marriage-of-figaro", "don-giovanni"]
+  },
+  {
+    "id": "birgit-nilsson",
+    "name": "Birgit Nilsson",
+    "sangIn": ["tristan-und-isolde", "die-walkure", "turandot", "tosca", "fidelio"]
+  },
+  {
+    "id": "leontyne-price",
+    "name": "Leontyne Price",
+    "sangIn": ["aida", "tosca", "la-traviata", "madama-butterfly", "don-giovanni"]
+  },
+  {
+    "id": "juan-diego-florez",
+    "name": "Juan Diego Flórez",
+    "sangIn": ["the-barber-of-seville", "lucia-di-lammermoor", "rigoletto"]
+  }
+]

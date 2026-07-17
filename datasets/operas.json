@@ -1,0 +1,162 @@
+[
+  {
+    "id": "don-giovanni",
+    "title": "Don Giovanni",
+    "genre": "Opera buffa",
+    "premiereYear": 1787,
+    "runtimeMinutes": 170,
+    "descriptionEN": "Based on the legends of Don Juan, a fictional libertine and seducer, blending comedy, melodrama and supernatural elements."
+  },
+  {
+    "id": "the-magic-flute",
+    "title": "The Magic Flute",
+    "genre": "Singspiel",
+    "premiereYear": 1791,
+    "runtimeMinutes": 160,
+    "descriptionEN": "A fairy tale story with Masonic elements, following Prince Tamino's quest to rescue Pamina."
+  },
+  {
+    "id": "the-marriage-of-figaro",
+    "title": "The Marriage of Figaro",
+    "genre": "Opera buffa",
+    "premiereYear": 1786,
+    "runtimeMinutes": 180,
+    "descriptionEN": "A continuation of The Barber of Seville, detailing a single 'day of madness' in the palace of Count Almaviva."
+  },
+  {
+    "id": "la-boheme",
+    "title": "La Bohème",
+    "genre": "Opera",
+    "premiereYear": 1896,
+    "runtimeMinutes": 115,
+    "descriptionEN": "The tragic love story of the poet Rodolfo and the seamstress Mimì in 1840s Paris."
+  },
+  {
+    "id": "tosca",
+    "title": "Tosca",
+    "genre": "Melodramma",
+    "premiereYear": 1900,
+    "runtimeMinutes": 120,
+    "descriptionEN": "A story of love, lust, murder, and political intrigue set in Rome during the Napoleonic wars."
+  },
+  {
+    "id": "turandot",
+    "title": "Turandot",
+    "genre": "Dramma lirico",
+    "premiereYear": 1926,
+    "runtimeMinutes": 135,
+    "descriptionEN": "Prince Calaf falls in love with the cold Princess Turandot, who requires her suitors to answer three riddles."
+  },
+  {
+    "id": "madama-butterfly",
+    "title": "Madama Butterfly",
+    "genre": "Tragedia giapponese",
+    "premiereYear": 1904,
+    "runtimeMinutes": 145,
+    "descriptionEN": "The heartbreaking story of a trusting Japanese geisha and her disastrous marriage to an American naval officer."
+  },
+  {
+    "id": "la-traviata",
+    "title": "La Traviata",
+    "genre": "Melodramma",
+    "premiereYear": 1853,
+    "runtimeMinutes": 130,
+    "descriptionEN": "The tragic romance between the courtesan Violetta Valéry and the young bourgeois Alfredo Germont."
+  },
+  {
+    "id": "rigoletto",
+    "title": "Rigoletto",
+    "genre": "Melodramma",
+    "premiereYear": 1851,
+    "runtimeMinutes": 120,
+    "descriptionEN": "A cursed court jester tries to protect his daughter from the licentious Duke of Mantua."
+  },
+  {
+    "id": "aida",
+    "title": "Aida",
+    "genre": "Opera lirica",
+    "premiereYear": 1871,
+    "runtimeMinutes": 150,
+    "descriptionEN": "An Ethiopian princess held captive in Egypt falls in love with an Egyptian military commander."
+  },
+  {
+    "id": "nabucco",
+    "title": "Nabucco",
+    "genre": "Dramma lirico",
+    "premiereYear": 1842,
+    "runtimeMinutes": 135,
+    "descriptionEN": "Follows the plight of the Jews as they are assaulted, conquered, and exiled by the Babylonian King Nebuchadnezzar."
+  },
+  {
+    "id": "carmen",
+    "title": "Carmen",
+    "genre": "Opéra comique",
+    "premiereYear": 1875,
+    "runtimeMinutes": 160,
+    "descriptionEN": "The tragic tale of a naive soldier who is seduced by the fiery gypsy Carmen."
+  },
+  {
+    "id": "the-barber-of-seville",
+    "title": "The Barber of Seville",
+    "genre": "Opera buffa",
+    "premiereYear": 1816,
+    "runtimeMinutes": 155,
+    "descriptionEN": "Count Almaviva enlists the help of Figaro, the local barber, to woo the beautiful Rosina."
+  },
+  {
+    "id": "norma",
+    "title": "Norma",
+    "genre": "Tragedia lirica",
+    "premiereYear": 1831,
+    "runtimeMinutes": 165,
+    "descriptionEN": "A Druid high priestess betrays her people for a Roman proconsul, who then leaves her for another woman."
+  },
+  {
+    "id": "lucia-di-lammermoor",
+    "title": "Lucia di Lammermoor",
+    "genre": "Dramma tragico",
+    "premiereYear": 1835,
+    "runtimeMinutes": 145,
+    "descriptionEN": "Caught in a feud between her family and the man she loves, Lucia is driven to madness."
+  },
+  {
+    "id": "fidelio",
+    "title": "Fidelio",
+    "genre": "Singspiel",
+    "premiereYear": 1805,
+    "runtimeMinutes": 135,
+    "descriptionEN": "Leonore disguises herself as a male prison guard to rescue her husband from a political prison."
+  },
+  {
+    "id": "tristan-und-isolde",
+    "title": "Tristan und Isolde",
+    "genre": "Musikdrama",
+    "premiereYear": 1865,
+    "runtimeMinutes": 235,
+    "descriptionEN": "A tale of doomed love based on medieval romance, noted for its revolutionary use of chromaticism."
+  },
+  {
+    "id": "die-walkure",
+    "title": "Die Walküre",
+    "genre": "Musikdrama",
+    "premiereYear": 1870,
+    "runtimeMinutes": 230,
+    "descriptionEN": "The second part of the Ring cycle, featuring the famous 'Ride of the Valkyries'."
+  },
+  {
+    "id": "parsifal",
+    "title": "Parsifal",
+    "genre": "Bühnenweihfestspiel",
+    "premiereYear": 1882,
+    "runtimeMinutes": 255,
+    "descriptionEN": "Based on the Arthurian knight Parzival and his quest for the Holy Grail."
+  },
+  {
+    "id": "lohengrin",
+    "title": "Lohengrin",
+    "genre": "Romantische Oper",
+    "premiereYear": 1850,
+    "runtimeMinutes": 210,
+    "descriptionEN": "A mysterious knight arrives in a swan-drawn boat to defend a wrongfully accused noblewoman."
+  }
+]

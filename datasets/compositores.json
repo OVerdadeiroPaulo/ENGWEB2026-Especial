@@ -1,0 +1,47 @@
+[
+  {
+    "id": "wolfgang-amadeus-mozart",
+    "name": "Wolfgang Amadeus Mozart",
+    "composedOperas": ["don-giovanni", "the-magic-flute", "the-marriage-of-figaro"]
+  },
+  {
+    "id": "giacomo-puccini",
+    "name": "Giacomo Puccini",
+    "composedOperas": ["la-boheme", "tosca", "turandot", "madama-butterfly"]
+  },
+  {
+    "id": "giuseppe-verdi",
+    "name": "Giuseppe Verdi",
+    "composedOperas": ["la-traviata", "rigoletto", "aida", "nabucco"]
+  },
+  {
+    "id": "georges-bizet",
+    "name": "Georges Bizet",
+    "composedOperas": ["carmen"]
+  },
+  {
+    "id": "gioachino-rossini",
+    "name": "Gioachino Rossini",
+    "composedOperas": ["the-barber-of-seville"]
+  },
+  {
+    "id": "vincenzo-bellini",
+    "name": "Vincenzo Bellini",
+    "composedOperas": ["norma"]
+  },
+  {
+    "id": "gaetano-donizetti",
+    "name": "Gaetano Donizetti",
+    "composedOperas": ["lucia-di-lammermoor"]
+  },
+  {
+    "id": "ludwig-van-beethoven",
+    "name": "Ludwig van Beethoven",
+    "composedOperas": ["fidelio"]
+  },
+  {
+    "id": "richard-wagner",
+    "name": "Richard Wagner",
+    "composedOperas": ["tristan-und-isolde", "die-walkure", "parsifal", "lohengrin"]
+  }
+]

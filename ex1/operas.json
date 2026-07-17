@@ -1,0 +1,583 @@
+[
+  {
+    "id": "don-giovanni",
+    "title": "Don Giovanni",
+    "genre": "Opera buffa",
+    "premiereYear": 1787,
+    "runtimeMinutes": 170,
+    "descriptionEN": "Based on the legends of Don Juan, a fictional libertine and seducer, blending comedy, melodrama and supernatural elements.",
+    "compositor": {
+      "id": "wolfgang-amadeus-mozart",
+      "name": "Wolfgang Amadeus Mozart"
+    },
+    "teatro": {
+      "id": "estates-theatre",
+      "name": "Estates Theatre",
+      "country": "Czech Republic"
+    },
+    "arias": [
+      {
+        "id": "madamina-il-catalogo-e-questo",
+        "name": "Madamina, il catalogo è questo",
+        "voiceType": "Bass-baritone"
+      }
+    ],
+    "cantores": [
+      "Joan Sutherland",
+      "Anna Netrebko",
+      "Bryn Terfel",
+      "Renée Fleming",
+      "Dietrich Fischer-Dieskau",
+      "Tito Gobbi",
+      "Cecilia Bartoli",
+      "Leontyne Price"
+    ]
+  },
+  {
+    "id": "the-magic-flute",
+    "title": "The Magic Flute",
+    "genre": "Singspiel",
+    "premiereYear": 1791,
+    "runtimeMinutes": 160,
+    "descriptionEN": "A fairy tale story with Masonic elements, following Prince Tamino's quest to rescue Pamina.",
+    "compositor": {
+      "id": "wolfgang-amadeus-mozart",
+      "name": "Wolfgang Amadeus Mozart"
+    },
+    "teatro": {
+      "id": "theater-auf-der-wieden",
+      "name": "Theater auf der Wieden",
+      "country": "Austria"
+    },
+    "arias": [
+      {
+        "id": "der-holle-rache",
+        "name": "Der Hölle Rache (Queen of the Night Aria)",
+        "voiceType": "Coloratura soprano"
+      }
+    ],
+    "cantores": []
+  },
+  {
+    "id": "the-marriage-of-figaro",
+    "title": "The Marriage of Figaro",
+    "genre": "Opera buffa",
+    "premiereYear": 1786,
+    "runtimeMinutes": 180,
+    "descriptionEN": "A continuation of The Barber of Seville, detailing a single 'day of madness' in the palace of Count Almaviva.",
+    "compositor": {
+      "id": "wolfgang-amadeus-mozart",
+      "name": "Wolfgang Amadeus Mozart"
+    },
+    "teatro": {
+      "id": "burgtheater",
+      "name": "Burgtheater",
+      "country": "Austria"
+    },
+    "arias": [
+      {
+        "id": "non-piu-andrai",
+        "name": "Non più andrai",
+        "voiceType": "Bass-baritone"
+      }
+    ],
+    "cantores": [
+      "Anna Netrebko",
+      "Bryn Terfel",
+      "Renée Fleming",
+      "Dietrich Fischer-Dieskau",
+      "Cecilia Bartoli"
+    ]
+  },
+  {
+    "id": "la-boheme",
+    "title": "La Bohème",
+    "genre": "Opera",
+    "premiereYear": 1896,
+    "runtimeMinutes": 115,
+    "descriptionEN": "The tragic love story of the poet Rodolfo and the seamstress Mimì in 1840s Paris.",
+    "compositor": {
+      "id": "giacomo-puccini",
+      "name": "Giacomo Puccini"
+    },
+    "teatro": {
+      "id": "teatro-regio-turin",
+      "name": "Teatro Regio di Torino",
+      "country": "Italy"
+    },
+    "arias": [
+      {
+        "id": "che-gelida-manina",
+        "name": "Che gelida manina",
+        "voiceType": "Tenor"
+      }
+    ],
+    "cantores": [
+      "Luciano Pavarotti",
+      "Anna Netrebko",
+      "Enrico Caruso"
+    ]
+  },
+  {
+    "id": "tosca",
+    "title": "Tosca",
+    "genre": "Melodramma",
+    "premiereYear": 1900,
+    "runtimeMinutes": 120,
+    "descriptionEN": "A story of love, lust, murder, and political intrigue set in Rome during the Napoleonic wars.",
+    "compositor": {
+      "id": "giacomo-puccini",
+      "name": "Giacomo Puccini"
+    },
+    "teatro": {
+      "id": "teatro-costanzi",
+      "name": "Teatro Costanzi",
+      "country": "Italy"
+    },
+    "arias": [
+      {
+        "id": "vissi-darte",
+        "name": "Vissi d'arte",
+        "voiceType": "Soprano"
+      }
+    ],
+    "cantores": [
+      "Luciano Pavarotti",
+      "Maria Callas",
+      "Plácido Domingo",
+      "Jonas Kaufmann",
+      "Anna Netrebko",
+      "Bryn Terfel",
+      "Tito Gobbi",
+      "Enrico Caruso",
+      "Birgit Nilsson",
+      "Leontyne Price"
+    ]
+  },
+  {
+    "id": "turandot",
+    "title": "Turandot",
+    "genre": "Dramma lirico",
+    "premiereYear": 1926,
+    "runtimeMinutes": 135,
+    "descriptionEN": "Prince Calaf falls in love with the cold Princess Turandot, who requires her suitors to answer three riddles.",
+    "compositor": {
+      "id": "giacomo-puccini",
+      "name": "Giacomo Puccini"
+    },
+    "teatro": {
+      "id": "teatro-alla-scala",
+      "name": "Teatro alla Scala",
+      "country": "Italy"
+    },
+    "arias": [
+      {
+        "id": "nessun-dorma",
+        "name": "Nessun dorma",
+        "voiceType": "Tenor"
+      }
+    ],
+    "cantores": [
+      "Luciano Pavarotti",
+      "Birgit Nilsson"
+    ]
+  },
+  {
+    "id": "madama-butterfly",
+    "title": "Madama Butterfly",
+    "genre": "Tragedia giapponese",
+    "premiereYear": 1904,
+    "runtimeMinutes": 145,
+    "descriptionEN": "The heartbreaking story of a trusting Japanese geisha and her disastrous marriage to an American naval officer.",
+    "compositor": {
+      "id": "giacomo-puccini",
+      "name": "Giacomo Puccini"
+    },
+    "teatro": {
+      "id": "teatro-alla-scala",
+      "name": "Teatro alla Scala",
+      "country": "Italy"
+    },
+    "arias": [
+      {
+        "id": "un-bel-di-vedremo",
+        "name": "Un bel dì, vedremo",
+        "voiceType": "Soprano"
+      }
+    ],
+    "cantores": [
+      "Maria Callas",
+      "Leontyne Price"
+    ]
+  },
+  {
+    "id": "la-traviata",
+    "title": "La Traviata",
+    "genre": "Melodramma",
+    "premiereYear": 1853,
+    "runtimeMinutes": 130,
+    "descriptionEN": "The tragic romance between the courtesan Violetta Valéry and the young bourgeois Alfredo Germont.",
+    "compositor": {
+      "id": "giuseppe-verdi",
+      "name": "Giuseppe Verdi"
+    },
+    "teatro": {
+      "id": "la-fenice",
+      "name": "La Fenice",
+      "country": "Italy"
+    },
+    "arias": [
+      {
+        "id": "sempre-libera",
+        "name": "Sempre libera",
+        "voiceType": "Soprano"
+      }
+    ],
+    "cantores": [
+      "Luciano Pavarotti",
+      "Maria Callas",
+      "Plácido Domingo",
+      "Joan Sutherland",
+      "Anna Netrebko",
+      "Renée Fleming",
+      "Leontyne Price"
+    ]
+  },
+  {
+    "id": "rigoletto",
+    "title": "Rigoletto",
+    "genre": "Melodramma",
+    "premiereYear": 1851,
+    "runtimeMinutes": 120,
+    "descriptionEN": "A cursed court jester tries to protect his daughter from the licentious Duke of Mantua.",
+    "compositor": {
+      "id": "giuseppe-verdi",
+      "name": "Giuseppe Verdi"
+    },
+    "teatro": {
+      "id": "la-fenice",
+      "name": "La Fenice",
+      "country": "Italy"
+    },
+    "arias": [
+      {
+        "id": "la-donna-e-mobile",
+        "name": "La donna è mobile",
+        "voiceType": "Tenor"
+      }
+    ],
+    "cantores": [
+      "Luciano Pavarotti",
+      "Joan Sutherland",
+      "Tito Gobbi",
+      "Enrico Caruso",
+      "Juan Diego Flórez"
+    ]
+  },
+  {
+    "id": "aida",
+    "title": "Aida",
+    "genre": "Opera lirica",
+    "premiereYear": 1871,
+    "runtimeMinutes": 150,
+    "descriptionEN": "An Ethiopian princess held captive in Egypt falls in love with an Egyptian military commander.",
+    "compositor": {
+      "id": "giuseppe-verdi",
+      "name": "Giuseppe Verdi"
+    },
+    "teatro": {
+      "id": "khedivial-opera-house",
+      "name": "Khedivial Opera House",
+      "country": "Egypt"
+    },
+    "arias": [
+      {
+        "id": "celeste-aida",
+        "name": "Celeste Aida",
+        "voiceType": "Tenor"
+      }
+    ],
+    "cantores": [
+      "Maria Callas",
+      "Plácido Domingo",
+      "Anna Netrebko",
+      "Enrico Caruso",
+      "Leontyne Price"
+    ]
+  },
+  {
+    "id": "nabucco",
+    "title": "Nabucco",
+    "genre": "Dramma lirico",
+    "premiereYear": 1842,
+    "runtimeMinutes": 135,
+    "descriptionEN": "Follows the plight of the Jews as they are assaulted, conquered, and exiled by the Babylonian King Nebuchadnezzar.",
+    "compositor": {
+      "id": "giuseppe-verdi",
+      "name": "Giuseppe Verdi"
+    },
+    "teatro": {
+      "id": "teatro-alla-scala",
+      "name": "Teatro alla Scala",
+      "country": "Italy"
+    },
+    "arias": [
+      {
+        "id": "va-pensiero",
+        "name": "Va, pensiero (Chorus of the Hebrew Slaves)",
+        "voiceType": "Chorus"
+      }
+    ],
+    "cantores": [
+      "Plácido Domingo",
+      "Tito Gobbi"
+    ]
+  },
+  {
+    "id": "carmen",
+    "title": "Carmen",
+    "genre": "Opéra comique",
+    "premiereYear": 1875,
+    "runtimeMinutes": 160,
+    "descriptionEN": "The tragic tale of a naive soldier who is seduced by the fiery gypsy Carmen.",
+    "compositor": {
+      "id": "georges-bizet",
+      "name": "Georges Bizet"
+    },
+    "teatro": {
+      "id": "opera-comique",
+      "name": "Opéra-Comique",
+      "country": "France"
+    },
+    "arias": [
+      {
+        "id": "habanera",
+        "name": "L'amour est un oiseau rebelle (Habanera)",
+        "voiceType": "Mezzo-soprano"
+      }
+    ],
+    "cantores": [
+      "Maria Callas",
+      "Plácido Domingo",
+      "Jonas Kaufmann",
+      "Enrico Caruso"
+    ]
+  },
+  {
+    "id": "the-barber-of-seville",
+    "title": "The Barber of Seville",
+    "genre": "Opera buffa",
+    "premiereYear": 1816,
+    "runtimeMinutes": 155,
+    "descriptionEN": "Count Almaviva enlists the help of Figaro, the local barber, to woo the beautiful Rosina.",
+    "compositor": {
+      "id": "gioachino-rossini",
+      "name": "Gioachino Rossini"
+    },
+    "teatro": {
+      "id": "teatro-argentina",
+      "name": "Teatro Argentina",
+      "country": "Italy"
+    },
+    "arias": [
+      {
+        "id": "largo-al-factotum",
+        "name": "Largo al factotum",
+        "voiceType": "Baritone"
+      }
+    ],
+    "cantores": [
+      "Tito Gobbi",
+      "Cecilia Bartoli",
+      "Juan Diego Flórez"
+    ]
+  },
+  {
+    "id": "norma",
+    "title": "Norma",
+    "genre": "Tragedia lirica",
+    "premiereYear": 1831,
+    "runtimeMinutes": 165,
+    "descriptionEN": "A Druid high priestess betrays her people for a Roman proconsul, who then leaves her for another woman.",
+    "compositor": {
+      "id": "vincenzo-bellini",
+      "name": "Vincenzo Bellini"
+    },
+    "teatro": {
+      "id": "teatro-alla-scala",
+      "name": "Teatro alla Scala",
+      "country": "Italy"
+    },
+    "arias": [
+      {
+        "id": "casta-diva",
+        "name": "Casta Diva",
+        "voiceType": "Soprano"
+      }
+    ],
+    "cantores": [
+      "Maria Callas",
+      "Joan Sutherland"
+    ]
+  },
+  {
+    "id": "lucia-di-lammermoor",
+    "title": "Lucia di Lammermoor",
+    "genre": "Dramma tragico",
+    "premiereYear": 1835,
+    "runtimeMinutes": 145,
+    "descriptionEN": "Caught in a feud between her family and the man she loves, Lucia is driven to madness.",
+    "compositor": {
+      "id": "gaetano-donizetti",
+      "name": "Gaetano Donizetti"
+    },
+    "teatro": {
+      "id": "teatro-san-carlo",
+      "name": "Teatro di San Carlo",
+      "country": "Italy"
+    },
+    "arias": [
+      {
+        "id": "il-dolce-suono",
+        "name": "Il dolce suono (Mad Scene)",
+        "voiceType": "Soprano"
+      }
+    ],
+    "cantores": [
+      "Luciano Pavarotti",
+      "Maria Callas",
+      "Joan Sutherland",
+      "Juan Diego Flórez"
+    ]
+  },
+  {
+    "id": "fidelio",
+    "title": "Fidelio",
+    "genre": "Singspiel",
+    "premiereYear": 1805,
+    "runtimeMinutes": 135,
+    "descriptionEN": "Leonore disguises herself as a male prison guard to rescue her husband from a political prison.",
+    "compositor": {
+      "id": "ludwig-van-beethoven",
+      "name": "Ludwig van Beethoven"
+    },
+    "teatro": {
+      "id": "theater-an-der-wien",
+      "name": "Theater an der Wien",
+      "country": "Austria"
+    },
+    "arias": [
+      {
+        "id": "o-namenlose-freude",
+        "name": "O namenlose Freude!",
+        "voiceType": "Duet (Soprano/Tenor)"
+      }
+    ],
+    "cantores": [
+      "Jonas Kaufmann",
+      "Dietrich Fischer-Dieskau",
+      "Birgit Nilsson"
+    ]
+  },
+  {
+    "id": "tristan-und-isolde",
+    "title": "Tristan und Isolde",
+    "genre": "Musikdrama",
+    "premiereYear": 1865,
+    "runtimeMinutes": 235,
+    "descriptionEN": "A tale of doomed love based on medieval romance, noted for its revolutionary use of chromaticism.",
+    "compositor": {
+      "id": "richard-wagner",
+      "name": "Richard Wagner"
+    },
+    "teatro": {
+      "id": "national-theatre-munich",
+      "name": "National Theatre Munich",
+      "country": "Germany"
+    },
+    "arias": [
+      {
+        "id": "liebestod",
+        "name": "Mild und leise (Liebestod)",
+        "voiceType": "Soprano"
+      }
+    ],
+    "cantores": [
+      "Dietrich Fischer-Dieskau",
+      "Birgit Nilsson"
+    ]
+  },
+  {
+    "id": "die-walkure",
+    "title": "Die Walküre",
+    "genre": "Musikdrama",
+    "premiereYear": 1870,
+    "runtimeMinutes": 230,
+    "descriptionEN": "The second part of the Ring cycle, featuring the famous 'Ride of the Valkyries'.",
+    "compositor": {
+      "id": "richard-wagner",
+      "name": "Richard Wagner"
+    },
+    "teatro": {
+      "id": "national-theatre-munich",
+      "name": "National Theatre Munich",
+      "country": "Germany"
+    },
+    "arias": [
+      {
+        "id": "ride-of-the-valkyries",
+        "name": "Walkürenritt",
+        "voiceType": "Chorus/Sopranos"
+      }
+    ],
+    "cantores": [
+      "Plácido Domingo",
+      "Jonas Kaufmann",
+      "Bryn Terfel",
+      "Birgit Nilsson"
+    ]
+  },
+  {
+    "id": "parsifal",
+    "title": "Parsifal",
+    "genre": "Bühnenweihfestspiel",
+    "premiereYear": 1882,
+    "runtimeMinutes": 255,
+    "descriptionEN": "Based on the Arthurian knight Parzival and his quest for the Holy Grail.",
+    "compositor": {
+      "id": "richard-wagner",
+      "name": "Richard Wagner"
+    },
+    "teatro": {
+      "id": "festspielhaus-bayreuth",
+      "name": "Bayreuth Festspielhaus",
+      "country": "Germany"
+    },
+    "arias": [],
+    "cantores": [
+      "Jonas Kaufmann",
+      "Dietrich Fischer-Dieskau"
+    ]
+  },
+  {
+    "id": "lohengrin",
+    "title": "Lohengrin",
+    "genre": "Romantische Oper",
+    "premiereYear": 1850,
+    "runtimeMinutes": 210,
+    "descriptionEN": "A mysterious knight arrives in a swan-drawn boat to defend a wrongfully accused noblewoman.",
+    "compositor": {
+      "id": "richard-wagner",
+      "name": "Richard Wagner"
+    },
+    "teatro": {
+      "id": "hoftheater-weimar",
+      "name": "Großherzogliches Hoftheater",
+      "country": "Germany"
+    },
+    "arias": [],
+    "cantores": [
+      "Jonas Kaufmann"
+    ]
+  }
+]
